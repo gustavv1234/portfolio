@@ -1,0 +1,21 @@
+/* src/components/Projetos.css */
+.projetos {
+    padding: 20px;
+  }
+  
+  .projetos h2 {
+    color: #2c3e50;
+  }
+  
+  .projetos ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .projetos li {
+    background: #ecf0f1;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
